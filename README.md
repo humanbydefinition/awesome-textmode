@@ -150,6 +150,9 @@
 - [Pixel Font Converter](https://yal.cc/tools/pixel-font/)
   - Browser tool for converting pixel-font tileset images into standard TTF/OTF fonts.
   - By [YellowAfterlife](https://yal.cc)
+- [Shapecatcher](https://shapecatcher.com)
+  - Draw a character shape and find visually similar Unicode glyphs - useful for discovering box-drawing, block, and symbol characters for textmode art. Covers 11,817+ glyphs.
+  - By [Benjamin Milde](https://shapecatcher.com)
 - [synth.textmode.art](https://synth.textmode.art)
   - Live-coding environment for exploring synthesis-driven textmode animation in the browser.
   - By [humanbydefinition](https://github.com/humanbydefinition)
