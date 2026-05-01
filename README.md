@@ -21,6 +21,10 @@
 
 - [16colo.rs](https://16colo.rs)
   - Online archive preserving ANSI and ASCII artpacks from the BBS era through today, with artist profiles, group histories, and an active forum.
+- [Demozoo](https://demozoo.org)
+  - Comprehensive demoscene production database hosting 62,000+ graphics (including ANSI, ASCII, and PETSCII art), artpacks, and textmode releases across all platforms, with scener profiles, group histories, party listings, and active forums — all [open source](https://github.com/demozoo/demozoo) and community-maintained.
+- [CSDb](https://csdb.dk)
+  - The Commodore 64 Scene Database with 250,000+ releases and extensive PETSCII art, C64 graphics, group histories, scener profiles, events, and BBS listings dating back to the early 1980s - active since 2001 and community-driven.
 - [Lospec textmode gallery](https://lospec.com/gallery/medium:textmode-art)
   - Curated collection of user-submitted textmode art.
 - [Mistigris](https://www.mistigris.org)
