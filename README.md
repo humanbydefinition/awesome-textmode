@@ -1,6 +1,6 @@
 # awesome textmode [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome textmode resources across ANSI and ASCII art, pixel fonts, creative-coding libraries, editors, archives, and communities.
+> A curated list of awesome textmode resources - tools, fonts, libraries, archives, and communities for creating and enjoying textmode art.
 
 **New to textmode?** Start with the [What is textmode?](https://polyducks.co.uk/pages/what-is-textmode/) article by [Polyducks](https://polyducks.co.uk) for a great overview, or watch the [What is ‘TEXT MODE’ art?](https://www.youtube.com/watch?v=6iSNinCzKTw) introduction by [Brandon James Greer](https://www.youtube.com/@BJGpixel) on YouTube.
 
