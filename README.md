@@ -156,12 +156,15 @@
 - [Moebius](https://github.com/blocktronics/moebius)
   - Modern ANSI and ASCII art editor with half-block brushes and multi-user collaboration.
   - By [Blocktronics](https://github.com/blocktronics) - [Apache-2.0](https://github.com/blocktronics/moebius/blob/master/LICENSE).
-- [Petmate](https://nurpax.github.io/petmate/)
-  - Cross-platform C64 PETSCII image editor with custom charsets, multi-screen editing, and export to multiple formats.
-  - By [nurpax](https://github.com/nurpax) - [MIT](https://github.com/nurpax/petmate/blob/master/LICENSE).
 - [PabloDraw](https://github.com/cwensley/pablodraw)
   - Cross-platform ANSI/ASCII text and RIPscrip vector art editor with multi-user collaboration.
   - By [Curtis Wensley](https://github.com/cwensley) - [MIT](https://github.com/cwensley/pablodraw/blob/master/LICENSE).
+- [Petmate](https://nurpax.github.io/petmate/)
+  - Cross-platform C64 PETSCII image editor with custom charsets, multi-screen editing, and export to multiple formats.
+  - By [nurpax](https://github.com/nurpax) - [MIT](https://github.com/nurpax/petmate/blob/master/LICENSE).
+- [Playscii](https://jp.itch.io/playscii)
+  - Open source ASCII art, animation, and game creation program.
+  - By [JP LeBreton](https://jplebreton.com) - [MIT](https://heptapod.host/jp-lebreton/playscii).
 - [REXPaint](https://www.gridsagegames.com/rexpaint/)
   - User-friendly ASCII art editor for Windows with layers, custom fonts, and export to PNG, ANSI, and other formats.
   - By [Grid Sage Games](https://www.gridsagegames.com) - Freeware.
