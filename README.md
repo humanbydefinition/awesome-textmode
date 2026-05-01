@@ -162,6 +162,9 @@
 - [PabloDraw](https://github.com/cwensley/pablodraw)
   - Cross-platform ANSI/ASCII text and RIPscrip vector art editor with multi-user collaboration.
   - By [Curtis Wensley](https://github.com/cwensley) - [MIT](https://github.com/cwensley/pablodraw/blob/master/LICENSE).
+- [REXPaint](https://www.gridsagegames.com/rexpaint/)
+  - User-friendly ASCII art editor for Windows with layers, custom fonts, and export to PNG, ANSI, and other formats.
+  - By [Grid Sage Games](https://www.gridsagegames.com) - Freeware.
 
 ### Terminal
 
