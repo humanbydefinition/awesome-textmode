@@ -25,6 +25,8 @@
   - Comprehensive demoscene production database hosting 62,000+ graphics (including ANSI, ASCII, and PETSCII art), artpacks, and textmode releases across all platforms, with scener profiles, group histories, party listings, and active forums — all [open source](https://github.com/demozoo/demozoo) and community-maintained.
 - [CSDb](https://csdb.dk)
   - The Commodore 64 Scene Database with 250,000+ releases and extensive PETSCII art, C64 graphics, group histories, scener profiles, events, and BBS listings dating back to the early 1980s — active since 2001 and community-driven.
+- [C64GFX](https://c64gfx.com)
+  - Dedicated Commodore 64 pixel art gallery showcasing 33,000+ graphics from the demoscene - loading screens, logos, PETSCII art, and more.
 - [pouët.net](https://www.pouet.net)
   - The iconic demoscene portal hosting 100,000+ productions including textmode graphics, demos, and intros across all platforms, with group profiles, party results, an active community BBS, and user voting - [open source](https://github.com/pouetnet/pouet-www) since 2000.
 - [Lospec textmode gallery](https://lospec.com/gallery/medium:textmode-art)
