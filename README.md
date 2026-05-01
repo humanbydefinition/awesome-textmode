@@ -12,6 +12,9 @@
 - [Font Collections](#font-collections)
 - [Libraries](#libraries)
 - [Editors and Tools](#editors-and-tools)
+  - [Web](#web)
+  - [Desktop GUI](#desktop-gui)
+  - [Terminal](#terminal)
 - [Applications and Playgrounds](#applications-and-playgrounds)
 
 ## Archives
