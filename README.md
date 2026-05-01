@@ -153,6 +153,9 @@
 
 ### Desktop GUI
 
+- [Marq's PETSCII Editor](http://www.kameli.net/marq/?page_id=2717)
+  - Cross-platform PETSCII editor for C64, VIC-20, PET, and Plus/4 with animation support and multiple export formats.
+  - By [Marq](http://www.kameli.net/marq) - [WTFPL](http://www.wtfpl.net/txt/copying/).
 - [Moebius](https://github.com/blocktronics/moebius)
   - Modern ANSI and ASCII art editor with half-block brushes and multi-user collaboration.
   - By [Blocktronics](https://github.com/blocktronics) - [Apache-2.0](https://github.com/blocktronics/moebius/blob/master/LICENSE).
