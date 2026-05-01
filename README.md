@@ -127,6 +127,8 @@
 
 ## Editors and Tools
 
+### Web
+
 - [editor.textmode.art](https://editor.textmode.art)
   - Browser-based editor and playground for writing textmode.js sketches without local setup.
   - By [humanbydefinition](https://github.com/humanbydefinition)
@@ -145,6 +147,27 @@
 - [textmode.art](https://textmode.art)
   - Web-based editor to create textmode scenes from various media sources.
   - By [humanbydefinition](https://github.com/humanbydefinition)
+
+### Desktop GUI
+
+- [Moebius](https://github.com/blocktronics/moebius)
+  - Modern ANSI and ASCII art editor with half-block brushes and multi-user collaboration.
+  - By [Blocktronics](https://github.com/blocktronics) - [Apache-2.0](https://github.com/blocktronics/moebius/blob/master/LICENSE).
+- [PabloDraw](https://github.com/cwensley/pablodraw)
+  - Cross-platform ANSI/ASCII text and RIPscrip vector art editor with multi-user collaboration.
+  - By [Curtis Wensley](https://github.com/cwensley) - [MIT](https://github.com/cwensley/pablodraw/blob/master/LICENSE).
+
+### Terminal
+
+- [durdraw](https://github.com/cmang/durdraw)
+  - Versatile ASCII, Unicode, and ANSI art editor for drawing and animating in the terminal.
+  - By [Sam Foster](https://github.com/cmang) - [BSD-3-Clause](https://github.com/cmang/durdraw/blob/main/LICENSE).
+- [Fontraption](https://github.com/viler-int10h/Fontraption)
+  - Tiny VGA text mode font editor for DOS, written in x86 assembly.
+  - By [VileR](https://int10h.org) - [MIT](https://github.com/viler-int10h/Fontraption/blob/main/LICENSE).
+- [Textual Paint](https://github.com/1j01/textual-paint)
+  - MS Paint-inspired TUI image editor with ANSI art support.
+  - By [Isaiah Odhner](https://github.com/1j01) - [MIT](https://github.com/1j01/textual-paint/blob/main/LICENSE).
 
 ## Applications and Playgrounds
 
