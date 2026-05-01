@@ -46,7 +46,7 @@
 
 ## Fonts
 
-> These fonts are shared by their creators under various licenses. Please read and respect the terms of each.
+> These fonts are shared under various licenses. Always review a font's license before including it in public work.
 
 - [ATASCII](https://codeberg.org/Dmian/font-atascii)
   - An 8x8 pixel font based on Atari ASCII and Atari ST characters.
@@ -96,7 +96,7 @@
 
 ## Font Collections
 
-> These fonts are shared by their creators under various licenses. Please read and respect the terms of each.
+> These fonts are shared under various licenses. Always review a font's license before including it in public work.
 
 - [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/fontlist/)
   - Comprehensive catalog of vintage PC fonts.
@@ -107,7 +107,7 @@
 
 ## Libraries
 
-> These libraries are shared by their creators under various licenses. Please read and respect the terms of each.
+> These libraries are shared under various licenses. Always review a library's license before including it in public work.
 
 - [asciimatics](https://github.com/peterbrittain/asciimatics)
   - Cross-platform Python library for curses-like terminal control, text UIs, and ASCII art animations.
