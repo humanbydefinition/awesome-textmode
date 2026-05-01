@@ -183,6 +183,9 @@
 
 ### Terminal
 
+- [DarkDraw](https://github.com/devottys/darkdraw)
+  - Unicode art and animation editor for the terminal built as a VisiData plugin, with 256-color support, frame-by-frame animation, a Unicode glyph browser, custom palettes, and scripting via the backing sheet data model.
+  - By [devottys](https://github.com/devottys) - [License](https://github.com/devottys/darkdraw/blob/master/LICENSE).
 - [Durdraw](https://github.com/cmang/durdraw)
   - Versatile ASCII, Unicode, and ANSI art editor for drawing and animating in the terminal.
   - By [Sam Foster](https://github.com/cmang) - [BSD-3-Clause](https://github.com/cmang/durdraw/blob/main/LICENSE).
