@@ -162,7 +162,7 @@
 
 ### Terminal
 
-- [durdraw](https://github.com/cmang/durdraw)
+- [Durdraw](https://github.com/cmang/durdraw)
   - Versatile ASCII, Unicode, and ANSI art editor for drawing and animating in the terminal.
   - By [Sam Foster](https://github.com/cmang) - [BSD-3-Clause](https://github.com/cmang/durdraw/blob/main/LICENSE).
 - [Fontraption](https://github.com/viler-int10h/Fontraption)
