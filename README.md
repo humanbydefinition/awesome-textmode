@@ -153,6 +153,9 @@
 - [synth.textmode.art](https://synth.textmode.art)
   - Live-coding environment for exploring synthesis-driven textmode animation in the browser.
   - By [humanbydefinition](https://github.com/humanbydefinition)
+- [text0wnz](https://github.com/xero/text0wnz)
+  - Offline-first progressive web app for drawing and editing ANSI, ASCII, NFO, and XBIN art with real-time collaboration, 100+ vintage fonts, half-block brushes, and full SAUCE metadata support - works on desktop and mobile.
+  - By [xero](https://github.com/xero) - [MIT](https://github.com/xero/text0wnz/blob/main/LICENSE.txt).
 - [textmode.art](https://textmode.art)
   - Web-based editor to create textmode scenes from various media sources.
   - By [humanbydefinition](https://github.com/humanbydefinition)
