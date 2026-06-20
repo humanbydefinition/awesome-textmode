@@ -140,6 +140,9 @@
 
 ### Web
 
+- [create.textmode.art](https://create.textmode.art)
+  - Grid-based glyph drawing and textmode art editor.
+  - By [humanbydefinition](https://github.com/humanbydefinition)
 - [editor.textmode.art](https://editor.textmode.art)
   - Browser-based editor and playground for writing textmode.js sketches without local setup.
   - By [humanbydefinition](https://github.com/humanbydefinition)
