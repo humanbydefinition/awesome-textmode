@@ -99,7 +99,7 @@
   - Monospaced 8x8 pixel font with 1324 glyphs and support for 98 languages.
   - By [GGBotNet](https://www.ggbot.net) - [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 - [Schmuck Symbols](https://migmoog.itch.io/schmucksymbols)
-  - Ornament and decorative symbols font for textmode editors like REXpaint and Playscii.
+  - Ornamental and decorative symbols font for textmode editors like REXpaint and Playscii.
   - By [migmoog](https://migmoog.itch.io) - *see license on project page*.
 - [UNSCII](http://viznut.fi/unscii/)
   - Bitmapped Unicode font collection based on classic system fonts, in 8×8 and 8×16 variants suitable for terminal, programming, and textmode art.
