@@ -164,6 +164,9 @@
 - [textmode.art](https://textmode.art)
   - Web-based editor to create textmode scenes from various media sources.
   - By [humanbydefinition](https://github.com/humanbydefinition)
+- [Textmode Overlay](https://github.com/humanbydefinition/textmode-browser-extensions)
+  - Browser extension to render live ASCII/textmode overlays on canvas and video elements.
+  - By [humanbydefinition](https://github.com/humanbydefinition) - [MIT](https://github.com/humanbydefinition/textmode-browser-extensions/blob/main/LICENSE).
 
 ### Desktop GUI
 
