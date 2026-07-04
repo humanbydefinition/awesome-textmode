@@ -147,7 +147,7 @@
   - Grid-based glyph drawing and textmode art editor.
   - By [humanbydefinition](https://github.com/humanbydefinition)
 - [editor.textmode.art](https://editor.textmode.art)
-  - Browser-based editor and playground for writing textmode.js sketches without local setup.
+  - Browser-based editor for live coding ASCII and textmode art with textmode.js.
   - By [humanbydefinition](https://github.com/humanbydefinition)
 - [GlyphDrawing.Club](https://glyphdrawing.club)
   - Web-based editor for modular type designs and text art with an adjustable grid and any typographic symbol.
@@ -161,9 +161,6 @@
 - [Shapecatcher](https://shapecatcher.com)
   - Draw a character shape and find visually similar Unicode glyphs - useful for discovering box-drawing, block, and symbol characters for textmode art. Covers 11,817+ glyphs.
   - By [Benjamin Milde](https://shapecatcher.com)
-- [synth.textmode.art](https://synth.textmode.art)
-  - Live-coding environment for exploring synthesis-driven textmode animation in the browser.
-  - By [humanbydefinition](https://github.com/humanbydefinition)
 - [text0wnz](https://github.com/xero/text0wnz)
   - Offline-first progressive web app for drawing and editing ANSI, ASCII, NFO, and XBIN art with real-time collaboration, 100+ vintage fonts, half-block brushes, and full SAUCE metadata support - works on desktop and mobile.
   - By [xero](https://github.com/xero) - [MIT](https://github.com/xero/text0wnz/blob/main/LICENSE.txt).
