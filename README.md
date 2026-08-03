@@ -164,7 +164,7 @@
 - [text0wnz](https://github.com/xero/text0wnz)
   - Offline-first progressive web app for drawing and editing ANSI, ASCII, NFO, and XBIN art with real-time collaboration, 100+ vintage fonts, half-block brushes, and full SAUCE metadata support - works on desktop and mobile.
   - By [xero](https://github.com/xero) - [MIT](https://github.com/xero/text0wnz/blob/main/LICENSE.txt).
-- [Textmode Overlay](https://github.com/humanbydefinition/textmode-browser-extension)
+- [Textmode Overlay](https://extension.textmode.art)
   - Browser extension to render live ASCII/textmode overlays on canvas and video elements.
   - By [humanbydefinition](https://github.com/humanbydefinition) - [MIT](https://github.com/humanbydefinition/textmode-browser-extension/blob/main/LICENSE).
 - [textmode.art](https://textmode.art)
