@@ -129,7 +129,7 @@
 - [p5.asciify](https://p5.textmode.art)
   - Real-time ASCII/textmode conversion library for `p5.js` in `WEBGL` mode.
   - By [humanbydefinition](https://github.com/humanbydefinition) - [MIT License](https://github.com/humanbydefinition/p5.asciify/blob/main/LICENSE).
-- [textmode.js](https://github.com/humanbydefinition/textmode.js#readme)
+- [textmode.js](https://code.textmode.art)
   - Framework-agnostic creative-coding library for real-time ASCII and textmode graphics in the browser.
   - By [humanbydefinition](https://github.com/humanbydefinition) - [LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
 - [rot.js](https://ondras.github.io/rot.js/)
