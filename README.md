@@ -131,7 +131,7 @@
   - By [humanbydefinition](https://github.com/humanbydefinition) - [MIT License](https://github.com/humanbydefinition/p5.asciify/blob/main/LICENSE).
 - [textmode.js](https://code.textmode.art)
   - Framework-agnostic creative-coding library for real-time ASCII and textmode graphics in the browser.
-  - By [humanbydefinition](https://github.com/humanbydefinition) - [LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+  - By [humanbydefinition](https://github.com/humanbydefinition) - [MIT License](https://github.com/humanbydefinition/textmode.js/blob/main/LICENSE).
 - [rot.js](https://ondras.github.io/rot.js/)
   - JavaScript toolkit for roguelike game development with features for map generation, pathfinding, and ASCII rendering.
   - By [Ondřej Žára](https://ondras.github.io/) - [BSD-3-Clause](https://github.com/ondras/rot.js?tab=BSD-3-Clause-1-ov-file).
