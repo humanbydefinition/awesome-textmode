@@ -126,7 +126,7 @@
 - [asciimatics](https://github.com/peterbrittain/asciimatics)
   - Cross-platform Python library for curses-like terminal control, text UIs, and ASCII art animations.
   - By [Peter Brittain](https://github.com/peterbrittain) - [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0).
-- [p5.asciify](https://github.com/humanbydefinition/p5.asciify#readme)
+- [p5.asciify](https://p5.textmode.art)
   - Real-time ASCII/textmode conversion library for `p5.js` in `WEBGL` mode.
   - By [humanbydefinition](https://github.com/humanbydefinition) - [MIT License](https://github.com/humanbydefinition/p5.asciify/blob/main/LICENSE).
 - [textmode.js](https://github.com/humanbydefinition/textmode.js#readme)
