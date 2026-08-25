@@ -149,6 +149,9 @@
 - [editor.textmode.art](https://editor.textmode.art)
   - Browser-based editor for live coding ASCII and textmode art with textmode.js.
   - By [humanbydefinition](https://github.com/humanbydefinition)
+- [export.textmode.art](https://export.textmode.art)
+  - Private, on-device studio for converting images, GIFs, and videos into textmode art.
+  - By [humanbydefinition](https://github.com/humanbydefinition)
 - [GlyphDrawing.Club](https://glyphdrawing.club)
   - Web-based editor for modular type designs and text art with an adjustable grid and any typographic symbol.
   - By [Heikki Lotvonen](https://heikkilotvonen.com)
