@@ -120,10 +120,10 @@
 
 ### Paid
 
-- [MRMOTEXT](https://mrmotarius.itch.io/mrmotext) — $5 USD or more
+- [MRMOTEXT](https://mrmotarius.itch.io/mrmotext) ($5 USD or more)
   - All-purpose 1-bit 8x8 tileset/charset with shape and specialized tiles for textmode art, level, and creature design.
   - By [Mrmo Tarius](https://mrmotarius.itch.io) - *see license on project page*.
-- [Oh no, more goblins!](https://mrmotarius.itch.io/moregoblins) — $5 USD or more
+- [Oh no, more goblins!](https://mrmotarius.itch.io/moregoblins) ($5 USD or more)
   - Goblin-themed 1-bit 12x12 tileset/charset for top-view, side-view, roguelike, and platformer textmode projects.
   - By [Mrmo Tarius](https://mrmotarius.itch.io) - *see license on project page*.
 
