@@ -9,6 +9,8 @@
 - [Archives](#archives)
 - [Discord Communities](#discord-communities)
 - [Fonts](#fonts)
+  - [Free](#free)
+  - [Paid](#paid)
 - [Font Collections](#font-collections)
 - [Libraries](#libraries)
 - [Editors and Tools](#editors-and-tools)
@@ -58,6 +60,8 @@
 ## Fonts
 
 > These fonts are shared under various licenses. Always review a font's license before including it in public work.
+
+### Free
 
 - [ATASCII](https://codeberg.org/Dmian/font-atascii)
   - An 8x8 pixel font based on Atari ASCII and Atari ST characters.
@@ -113,6 +117,15 @@
 - [UrsaFont](https://ursafrank.itch.io/ursafont)
   - Two-part 8x8 monospaced family covering the ANSI standard and extended symbols for art and games.
   - By [UrsaFrank](https://www.stormrooster.com/) - [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+### Paid
+
+- [MRMOTEXT](https://mrmotarius.itch.io/mrmotext)
+  - All-purpose 1-bit 8x8 tileset/charset with shape and specialized tiles for textmode art, level, and creature design.
+  - By [Mrmo Tarius](https://mrmotarius.itch.io) - *see license on project page*.
+- [Oh no, more goblins!](https://mrmotarius.itch.io/moregoblins)
+  - Goblin-themed 1-bit 12x12 tileset/charset for top-view, side-view, roguelike, and platformer textmode projects.
+  - By [Mrmo Tarius](https://mrmotarius.itch.io) - *see license on project page*.
 
 ## Font Collections
 
