@@ -131,12 +131,15 @@
 
 > These fonts are shared under various licenses. Always review a font's license before including it in public work.
 
-- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/fontlist/)
-  - Comprehensive catalog of vintage PC fonts.
-  - By [VileR](https://int10h.org) - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - [littlebitspace's font collection](https://littlebitspace.com/resources/)
   - Collection of pixel fonts in multiple formats for retro and textmode projects.
   - By [littlebitspace](https://littlebitspace.com) - No license(s) specified/found.
+- [Multi Platform Amiga Fonts](https://github.com/rewtnull/amigafonts)
+  - Faithful multi-platform remakes of classic Amiga textmode fonts, including Topaz, P0T-NOoDLE, MicroKnight, and mO'sOul.
+  - By [rewtnull](https://github.com/rewtnull) - [GPL with Font Exception](https://www.gnu.org/licenses/gpl-faq.html#FontException).
+- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/fontlist/)
+  - Comprehensive catalog of vintage PC fonts.
+  - By [VileR](https://int10h.org) - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Libraries
 
