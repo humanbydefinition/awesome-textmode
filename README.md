@@ -24,9 +24,9 @@
 - [16colo.rs](https://16colo.rs)
   - Online archive preserving ANSI and ASCII artpacks from the BBS era through today, with artist profiles, group histories, and an active forum.
 - [Demozoo](https://demozoo.org)
-  - Comprehensive demoscene production database hosting 62,000+ graphics (including ANSI, ASCII, and PETSCII art), artpacks, and textmode releases across all platforms, with scener profiles, group histories, party listings, and active forums — all [open source](https://github.com/demozoo/demozoo) and community-maintained.
+  - Comprehensive demoscene production database hosting 62,000+ graphics (including ANSI, ASCII, and PETSCII art), artpacks, and textmode releases across all platforms, with scener profiles, group histories, party listings, and active forums - all [open source](https://github.com/demozoo/demozoo) and community-maintained.
 - [CSDb](https://csdb.dk)
-  - The Commodore 64 Scene Database with 250,000+ releases and extensive PETSCII art, C64 graphics, group histories, scener profiles, events, and BBS listings dating back to the early 1980s — active since 2001 and community-driven.
+  - The Commodore 64 Scene Database with 250,000+ releases and extensive PETSCII art, C64 graphics, group histories, scener profiles, events, and BBS listings dating back to the early 1980s - active since 2001 and community-driven.
 - [C64GFX](https://c64gfx.com)
   - Dedicated Commodore 64 pixel art gallery showcasing 33,000+ graphics from the demoscene - loading screens, logos, PETSCII art, and more.
 - [pouët.net](https://www.pouet.net)
