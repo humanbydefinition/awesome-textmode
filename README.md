@@ -180,6 +180,9 @@
 - [lvllvl](https://lvllvl.com)
   - Feature-rich web editor for textmode art with PETSCII, teletext, layers, animations, and custom fonts.
   - By [jaammees](https://github.com/jaammees) †
+- [PETSCII Editor](https://petscii.krissz.hu)
+  - Browser-based Commodore 64 PETSCII editor for characters, sprites, and screens, with autosave and export to PRG, PNG, SEQ, assembly, and BASIC.
+  - By [Tóth Krisztián](https://krissz.hu)
 - [Pixel Font Converter](https://yal.cc/tools/pixel-font/)
   - Browser tool for converting pixel-font tileset images into standard TTF/OTF fonts.
   - By [YellowAfterlife](https://yal.cc)
