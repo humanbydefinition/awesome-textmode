@@ -122,10 +122,10 @@
 
 - [MRMOTEXT](https://mrmotarius.itch.io/mrmotext)
   - All-purpose 1-bit 8x8 tileset/charset with shape and specialized tiles for textmode art, level, and creature design.
-  - By [Mrmo Tarius](https://mrmotarius.itch.io) - *see license on project page*.
+  - By [Mrmo Tarius](https://mrmotarius.itch.io) - $5 USD or more - *see license on project page*.
 - [Oh no, more goblins!](https://mrmotarius.itch.io/moregoblins)
   - Goblin-themed 1-bit 12x12 tileset/charset for top-view, side-view, roguelike, and platformer textmode projects.
-  - By [Mrmo Tarius](https://mrmotarius.itch.io) - *see license on project page*.
+  - By [Mrmo Tarius](https://mrmotarius.itch.io) - $5 USD or more - *see license on project page*.
 
 ## Font Collections
 
