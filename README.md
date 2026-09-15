@@ -98,6 +98,9 @@
 - [Public Pixel Font](https://ggbot.itch.io/public-pixel-font)
   - Monospaced 8x8 pixel font with 1324 glyphs and support for 98 languages.
   - By [GGBotNet](https://www.ggbot.net) - [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Rook](https://outer-spec.itch.io/rook)
+  - Rescued textmode pixel font originally created by Quintin Stokes, revived and converted to TTF.
+  - By [outer spec](https://outer-spec.itch.io) - Public domain.
 - [Schmuck Symbols](https://migmoog.itch.io/schmucksymbols)
   - Ornamental and decorative symbols font for textmode editors like REXpaint and Playscii.
   - By [migmoog](https://migmoog.itch.io) - *see license on project page*.
