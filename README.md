@@ -128,6 +128,9 @@
 - [Oh no, more goblins!](https://mrmotarius.itch.io/moregoblins) *($5 USD or more)*
   - Goblin-themed 1-bit 12x12 tileset/charset for top-view, side-view, roguelike, and platformer textmode projects.
   - By [Mrmo Tarius](https://mrmotarius.itch.io) - *see license on project page*.
+- [S#](https://shidoengie.itch.io/ssharp) *(€3 EUR or more)*
+  - 8x8 textmode pixel font shipped as Playscii and REXPaint charsets, plus TTF and PNG versions.
+  - By [Shidoengie](https://shidoengie.itch.io) - *see license on project page*.
 
 ## Font Collections
 
