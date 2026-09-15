@@ -86,6 +86,9 @@
 - [Kitchen Sink](https://polyducks.itch.io/kitchen-sink-textmode-font)
   - Dense 6x8 monospaced font with special symbols for compact interfaces and art.
   - By [Polyducks](https://polyducks.co.uk) - *see license on project page*.
+- [Microbe-2](https://mrmotarius.itch.io/microbe-2)
+  - All-purpose 1-bit 6x6 tileset/charset for low-fidelity textmode art and experimentation.
+  - By [Mrmo Tarius](https://mrmotarius.itch.io) - *see license on project page*.
 - [OG-DCM-Emoji](https://meowni.ca/posts/og-emoji-font/)
   - Nostalgic 12x12 pixel emoji font recreated from the original DoCoMo emoji set.
   - By [Monica Dinculescu](https://meowni.ca) - [MIT License](https://github.com/notwaldorf/og-emoji-font?tab=MIT-1-ov-file).
