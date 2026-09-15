@@ -23,6 +23,8 @@
 
 - [16colo.rs](https://16colo.rs)
   - Online archive preserving ANSI and ASCII artpacks from the BBS era through today, with artist profiles, group histories, and an active forum.
+- [ASCII Art Archive](https://www.asciiart.eu)
+  - Large archive of ASCII art with in-browser drawing tools, games, animations, and a searchable mirror of 128,000 Usenet newsgroup messages from 1993 to 2013, maintained by [Joacim Wejdin](https://www.injosoft.com).
 - [Demozoo](https://demozoo.org)
   - Comprehensive demoscene production database hosting 62,000+ graphics (including ANSI, ASCII, and PETSCII art), artpacks, and textmode releases across all platforms, with scener profiles, group histories, party listings, and active forums - all [open source](https://github.com/demozoo/demozoo) and community-maintained.
 - [CSDb](https://csdb.dk)
