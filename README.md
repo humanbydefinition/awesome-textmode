@@ -17,6 +17,7 @@
   - [Web](#web)
   - [Desktop GUI](#desktop-gui)
   - [Terminal](#terminal)
+- [Software Collections](#software-collections)
 - [Applications and Playgrounds](#applications-and-playgrounds)
 
 ## Archives
@@ -239,6 +240,14 @@
 - [Textual Paint](https://github.com/1j01/textual-paint)
   - MS Paint-inspired TUI image editor with ANSI art support.
   - By [Isaiah Odhner](https://github.com/1j01) - [MIT](https://github.com/1j01/textual-paint/blob/main/LICENSE).
+
+## Software Collections
+
+> These are curated directories of textmode software. Always review a project's license before including it in public work.
+
+- [Lospec textmode software directory](https://lospec.com/software/medium:textmode)
+  - Filterable directory of textmode art software covering editors, converters, viewers, and font and charset tools across web, desktop, and retro platforms.
+  - By [Lospec](https://lospec.com)
 
 ## Applications and Playgrounds
 
