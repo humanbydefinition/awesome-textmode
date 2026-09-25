@@ -167,7 +167,7 @@
   - A creative coding environment for the terminal.
   - By [emprcl](https://empr.cl/) - [MIT License](https://github.com/emprcl/runal?tab=MIT-1-ov-file).
 - [thorn](https://codeberg.org/olekawaii/thorn)
-  - Pure, lazy, statically typed functional language for creating colorful hand-drawn ASCII art animations, with art blocks embedded directly in source and converters to POSIX shell and GIF (`th2sh`, `th2gif`).
+  - Pure, lazy, statically typed functional programming language for making colorful ASCII art animations.
   - By [Oleksiy Buell](https://codeberg.org/olekawaii) - [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ## Editors and Tools
