@@ -26,20 +26,23 @@
   - Online archive preserving ANSI and ASCII artpacks from the BBS era through today, with artist profiles, group histories, and an active forum.
 - [ASCII Art Archive](https://www.asciiart.eu)
   - Large archive of ASCII art with in-browser drawing tools, games, animations, and a searchable mirror of 128,000 Usenet newsgroup messages from 1993 to 2013, maintained by [Joacim Wejdin](https://www.injosoft.com).
-- [Demozoo](https://demozoo.org)
-  - Comprehensive demoscene production database hosting 62,000+ graphics (including ANSI, ASCII, and PETSCII art), artpacks, and textmode releases across all platforms, with scener profiles, group histories, party listings, and active forums - all [open source](https://github.com/demozoo/demozoo) and community-maintained.
-- [CSDb](https://csdb.dk)
-  - The Commodore 64 Scene Database with 250,000+ releases and extensive PETSCII art, C64 graphics, group histories, scener profiles, events, and BBS listings dating back to the early 1980s - active since 2001 and community-driven.
 - [C64GFX](https://c64gfx.com)
   - Dedicated Commodore 64 pixel art gallery showcasing 33,000+ graphics from the demoscene - loading screens, logos, PETSCII art, and more.
-- [pouët.net](https://www.pouet.net)
-  - The iconic demoscene portal hosting 100,000+ productions including textmode graphics, demos, and intros across all platforms, with group profiles, party results, an active community BBS, and user voting - [open source](https://github.com/pouetnet/pouet-www) since 2000.
+- [CSDb](https://csdb.dk)
+  - The Commodore 64 Scene Database with 250,000+ releases and extensive PETSCII art, C64 graphics, group histories, scener profiles, events, and BBS listings dating back to the early 1980s - active since 2001 and community-driven.
+- [Demozoo](https://demozoo.org)
+  - Comprehensive demoscene production database hosting 62,000+ graphics (including ANSI, ASCII, and PETSCII art), artpacks, and textmode releases across all platforms, with scener profiles, group histories, party listings, and active forums - all [open source](https://github.com/demozoo/demozoo) and community-maintained.
+- [explore.textmode.art](https://explore.textmode.art)
+  - Public index of textmode-related posts from selected social platforms, with filters and links to the original posts.
+  - By [humanbydefinition](https://github.com/humanbydefinition)
+- [FUNGI](https://fungi.neocities.org)
+  - Fairy digital forest blending ASCII art, pixel aesthetics, and surreal visuals by [Polyducks](https://polyducks.co.uk) & friends.
 - [Lospec textmode gallery](https://lospec.com/gallery/medium:textmode-art)
   - Curated collection of user-submitted textmode art.
 - [Mistigris](https://www.mistigris.org)
   - Long-running textmode and outlier computer arts collective, also active through its current `mistfunk` identity across social platforms.
-- [FUNGI](https://fungi.neocities.org)
-  - Fairy digital forest blending ASCII art, pixel aesthetics, and surreal visuals by [Polyducks](https://polyducks.co.uk) & friends.
+- [pouët.net](https://www.pouet.net)
+  - The iconic demoscene portal hosting 100,000+ productions including textmode graphics, demos, and intros across all platforms, with group profiles, party results, an active community BBS, and user voting - [open source](https://github.com/pouetnet/pouet-www) since 2000.
 - [text-mode.org](https://text-mode.org)
   - Curated archive of text graphics spanning ASCII, PETSCII, teletext, and lesser-known formats, maintained by [Goto80](https://www.goto80.com).
 
