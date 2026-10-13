@@ -257,6 +257,9 @@
 - [automata.textmode.art](https://automata.textmode.art)
   - Rule-driven cellular automata simulation playground with textmode visualization.
   - By [humanbydefinition](https://github.com/humanbydefinition)
+- [explore.textmode.art](https://explore.textmode.art)
+  - Public feed for discovering textmode art across selected social platforms, with tag and identity pages and links to original posts.
+  - By [humanbydefinition](https://github.com/humanbydefinition)
 - [play.ertdfgcvb.xyz](https://play.ertdfgcvb.xyz)
   - Interactive platform for creating ASCII animations and graphics through a scripting interface.
   - By [ertdfgcvb](https://ertdfgcvb.xyz)
