@@ -33,8 +33,7 @@
 - [Demozoo](https://demozoo.org)
   - Comprehensive demoscene production database hosting 62,000+ graphics (including ANSI, ASCII, and PETSCII art), artpacks, and textmode releases across all platforms, with scener profiles, group histories, party listings, and active forums - all [open source](https://github.com/demozoo/demozoo) and community-maintained.
 - [explore.textmode.art](https://explore.textmode.art)
-  - Public index of textmode-related posts from selected social platforms, with filters and links to the original posts.
-  - By [humanbydefinition](https://github.com/humanbydefinition)
+  - Public index of textmode-related posts from selected social platforms, with filters and links to the original posts, maintained by [humanbydefinition](https://github.com/humanbydefinition).
 - [FUNGI](https://fungi.neocities.org)
   - Fairy digital forest blending ASCII art, pixel aesthetics, and surreal visuals by [Polyducks](https://polyducks.co.uk) & friends.
 - [Lospec textmode gallery](https://lospec.com/gallery/medium:textmode-art)
