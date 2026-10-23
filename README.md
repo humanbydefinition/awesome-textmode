@@ -210,6 +210,10 @@
   - Web-based editor to create textmode scenes from various media sources.
   - By [humanbydefinition](https://github.com/humanbydefinition)
 
+- [artgen ASCII art generator](https://artgen.net/en/tools/ascii-art-generator)
+  - Web tool that converts a photo into ASCII art (free with sign-in).
+  - By [Ziyu](https://github.com/ziyu) - Proprietary (free tier with sign-in).
+
 ### Desktop GUI
 
 - [Marq's PETSCII Editor](http://www.kameli.net/marq/?page_id=2717)
