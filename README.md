@@ -6,6 +6,7 @@
 
 ## Contents
 
+- [Articles & Essays](#articles--essays)
 - [Archives](#archives)
 - [Discord Communities](#discord-communities)
 - [Fonts](#fonts)
@@ -19,6 +20,11 @@
   - [Terminal](#terminal)
 - [Software Collections](#software-collections)
 - [Applications and Playgrounds](#applications-and-playgrounds)
+
+## Articles & Essays
+
+- [ASCII art as design practice](https://tekstien-marginaalien-keskus.aalto.fi/heikki-and-adel/)
+  - A resource on ASCII art as a design practice by [Heikki Lotvonen](https://heikkilotvonen.com) and [Adel Faure](https://adelfaure.net).
 
 ## Archives
 
