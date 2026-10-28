@@ -25,6 +25,8 @@
 
 - [ASCII art as design practice](https://tekstien-marginaalien-keskus.aalto.fi/heikki-and-adel/)
   - A resource on ASCII art as a design practice by [Heikki Lotvonen](https://heikkilotvonen.com) and [Adel Faure](https://adelfaure.net).
+- [GlyphDrawing.Club blog](https://blog.glyphdrawing.club/)
+  - Essays, articles, and tutorials by [Heikki Lotvonen](https://heikkilotvonen.com) on ASCII and text art.
 
 ## Archives
 
