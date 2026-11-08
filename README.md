@@ -220,6 +220,9 @@
 
 ### Desktop GUI
 
+- [Asemode](https://github.com/humanbydefinition/Asemode)
+  - Aseprite extension for character-cell drawing and textmode art.
+  - By [humanbydefinition](https://github.com/humanbydefinition) - [MIT](https://github.com/humanbydefinition/Asemode/blob/main/LICENSE).
 - [Marq's PETSCII Editor](http://www.kameli.net/marq/?page_id=2717)
   - Cross-platform PETSCII editor for C64, VIC-20, PET, and Plus/4 with animation support and multiple export formats.
   - By [Marq](http://www.kameli.net/marq) - [WTFPL](http://www.wtfpl.net/txt/copying/).
