@@ -264,6 +264,9 @@
 - [Lospec textmode software directory](https://lospec.com/software/medium:textmode)
   - Filterable directory of textmode art software covering editors, converters, viewers, and font and charset tools across web, desktop, and retro platforms.
   - By [Lospec](https://lospec.com)
+- [Text art tools](https://hlnet.notion.site/text-art-tools)
+  - Working directory of text art and unconventional graphic design tools, covering ANSI, ASCII, Unicode, PETSCII, Shift-JIS, and teletext editors alongside related type, image, and vector tools.
+  - By [Heikki Lotvonen](https://heikkilotvonen.com)
 
 ## Applications and Playgrounds
 
