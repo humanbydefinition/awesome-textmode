@@ -186,7 +186,7 @@
 
 - [build.textmode.art](https://build.textmode.art)
   - Web-based editor to create textmode scenes from various media sources.
-  - By [humanbydefinition](https://github.com/humanbydefinition) - No license specified.
+  - By [humanbydefinition](https://github.com/humanbydefinition)
 - [create.textmode.art](https://create.textmode.art)
   - Grid-based glyph drawing and textmode art editor.
   - By [humanbydefinition](https://github.com/humanbydefinition)
@@ -269,7 +269,7 @@
   - By [Heikki Lotvonen](https://heikkilotvonen.com)
 - [textmode.art](https://textmode.art)
   - Index of textmode art projects, including creative coding, editors, conversion tools, and experiments.
-  - By [humanbydefinition](https://github.com/humanbydefinition) - No license specified.
+  - By [humanbydefinition](https://github.com/humanbydefinition)
 
 ## Applications and Playgrounds
 
