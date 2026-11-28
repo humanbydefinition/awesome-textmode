@@ -184,6 +184,9 @@
 
 ### Web
 
+- [build.textmode.art](https://build.textmode.art)
+  - Web-based editor to create textmode scenes from various media sources.
+  - By [humanbydefinition](https://github.com/humanbydefinition)
 - [create.textmode.art](https://create.textmode.art)
   - Grid-based glyph drawing and textmode art editor.
   - By [humanbydefinition](https://github.com/humanbydefinition)
@@ -214,9 +217,6 @@
 - [Textmode Overlay](https://extension.textmode.art)
   - Browser extension to render live ASCII/textmode overlays on canvas and video elements.
   - By [humanbydefinition](https://github.com/humanbydefinition) - [MIT](https://github.com/humanbydefinition/textmode-browser-extension/blob/main/LICENSE).
-- [textmode.art](https://textmode.art)
-  - Web-based editor to create textmode scenes from various media sources.
-  - By [humanbydefinition](https://github.com/humanbydefinition)
 
 ### Desktop GUI
 
@@ -267,6 +267,9 @@
 - [Text art tools](https://hlnet.notion.site/text-art-tools)
   - Working directory of text art and unconventional graphic design tools, covering ANSI, ASCII, Unicode, PETSCII, Shift-JIS, and teletext editors alongside related type, image, and vector tools.
   - By [Heikki Lotvonen](https://heikkilotvonen.com)
+- [textmode.art](https://textmode.art)
+  - Index of textmode art projects, including creative coding, editors, conversion tools, and experiments.
+  - By [humanbydefinition](https://github.com/humanbydefinition)
 
 ## Applications and Playgrounds
 
